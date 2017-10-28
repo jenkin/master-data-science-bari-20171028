@@ -127,8 +127,8 @@
      id="namedview4325"
      showgrid="false"
      inkscape:zoom="0.92483694"
-     inkscape:cx="-30.243313"
-     inkscape:cy="315.32154"
+     inkscape:cx="265.19583"
+     inkscape:cy="610.70346"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -136,12 +136,12 @@
      inkscape:snap-global="false"
      inkscape:lockguides="true" />
   <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:1.80854785;stroke-miterlimit:4;stroke-dasharray:1.80854768, 1.80854767999999999;stroke-dashoffset:0"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.92342103;stroke-miterlimit:4;stroke-dasharray:1.92342083, 1.92342083;stroke-dashoffset:0"
      id="rect7897"
      width="1501.2122"
-     height="1328.202"
+     height="1502.2867"
      x="-207.39726"
-     y="-171.93555" />
+     y="-346.02029" />
   <line
      y1="680.0517"
      x1="1.6943359"
@@ -159,8 +159,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4132"
-     x="91.885826"
-     y="-14.926141"
+     x="107.76186"
+     y="15.308145"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Fe</text>
   <line
      y1="573.78961"
@@ -172,8 +172,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4138"
-     x="182.09045"
-     y="-14.926141"
+     x="199.95093"
+     y="15.308145"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Ma</text>
   <line
      y1="480.9183"
@@ -185,8 +185,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4144"
-     x="272.2951"
-     y="-14.926141"
+     x="290.15558"
+     y="15.308145"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Ap</text>
   <line
      y1="480.48633"
@@ -198,8 +198,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4150"
-     x="362.49969"
-     y="-14.926141"
+     x="380.36017"
+     y="13.292525"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Ma</text>
   <line
      y1="525.30969"
@@ -211,8 +211,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4156"
-     x="452.70441"
-     y="-14.926141"
+     x="474.53387"
+     y="13.292525"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Jun</text>
   <line
      y1="563.99518"
@@ -224,8 +224,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4162"
-     x="542.909"
-     y="-14.926141"
+     x="558.78497"
+     y="13.292525"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Ju</text>
   <line
      y1="537.13025"
@@ -237,8 +237,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4168"
-     x="633.11365"
-     y="-14.926141"
+     x="654.94312"
+     y="13.292525"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Aug</text>
   <line
      y1="680.0517"
@@ -250,8 +250,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4174"
-     x="723.31818"
-     y="-14.926141"
+     x="741.17865"
+     y="13.292525"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Se</text>
   <line
      y1="502.07642"
@@ -263,8 +263,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4180"
-     x="813.52295"
-     y="-14.926141"
+     x="833.36792"
+     y="13.292525"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Oct</text>
   <line
      y1="680.0517"
@@ -273,12 +273,6 @@
      style="font-size:medium;font-family:Arial, Helvetica;fill:none;stroke:#cccccc;stroke-width:1px"
      x2="910.78522"
      y2="0.051720001" />
-  <text
-     transform="scale(1.0078095,0.99225102)"
-     id="text4186"
-     x="903.7276"
-     y="-13.003872"
-     style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">No</text>
   <line
      y1="680.0517"
      x1="1001.6943"
@@ -286,12 +280,6 @@
      style="font-size:medium;font-family:Arial, Helvetica;fill:none;stroke:#cccccc;stroke-width:1px"
      x2="1001.6943"
      y2="0.051720001" />
-  <text
-     transform="scale(1.0078095,0.99225102)"
-     id="text4192"
-     x="993.93219"
-     y="-14.926141"
-     style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">De</text>
   <path
      inkscape:connector-curvature="0"
      id="path4200"
@@ -436,8 +424,8 @@
   <text
      transform="scale(1.0078095,0.99225102)"
      id="text4132-9"
-     x="2.0639384"
-     y="-12.812817"
+     x="17.939955"
+     y="15.40585"
      style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">Ja</text>
   <path
      sodipodi:nodetypes="cc"
@@ -541,4 +529,16 @@
        x="148.37267"
        y="394.19147"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';fill:#ffffff">accessories</tspan></text>
+  <text
+     transform="scale(1.0078095,0.99225102)"
+     id="text4186"
+     x="923.57257"
+     y="15.214795"
+     style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">No</text>
+  <text
+     transform="scale(1.0078095,0.99225102)"
+     id="text4192"
+     x="982.02521"
+     y="15.308144"
+     style="font-size:18.66666603px;font-family:Arial, Helvetica;text-anchor:middle;fill:#ffffff;stroke-width:0.99225098px">De</text>
 </svg>
